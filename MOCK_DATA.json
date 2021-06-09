@@ -1,0 +1,635 @@
+[
+  {
+    "id": 1,
+    "name": "Ericka",
+    "birthdate": "05/25/2021",
+    "email": "eritchman0@accuweather.com",
+    "password": "kjdBK2V",
+    "gender": "Genderfluid",
+    "isDeficiency": true,
+    "ethnicity": "Branco",
+    "phone": "110-143-8182",
+    "salaryExpec": "1300 a 1600",
+    "personality": "Não sou tímido(a)",
+    "dispo": "Qual quer horário",
+    "endereco": "Feira De Santana-BA",
+    "aresa": [
+      {
+        "name": "Desenvolvimento de Software"
+      }
+    ],
+    "technologies": [
+      {
+        "name": "NodeJS",
+        "level": "BASIC"
+      },
+      {
+        "name": "Javascript",
+        "level": "BASIC"
+      }
+    ],
+    "experiences": [
+      {
+        "companyName": "ZRP",
+        "createdAt": "2021-06-03T14:03:02.224Z",
+        "description": "A expressão Lorem ipsum em design gráfico e editoração é um texto padrão em latim utilizado na produção gráfica para preencher os espaços de texto em publicações para testar e ajustar aspectos visuais antes de utilizar conteúdo real",
+        "endDate": "2022-12-01",
+        "id": 22,
+        "remuneration": "500",
+        "startDate": "2021-12-06",
+        "updatedAt": "2021-06-03T14:03:02.224Z"
+      },
+      {
+        "companyName": "Ana Jobs",
+        "createdAt": "2021-06-03T14:03:02.224Z",
+        "description": "A expressão Lorem ipsum em design gráfico e editoração é um texto padrão em latim utilizado na produção gráfica para preencher os espaços de texto em publicações para testar e ajustar aspectos visuais antes de utilizar conteúdo real",
+        "endDate": "2022-12-01",
+        "id": 22,
+        "remuneration": "500",
+        "startDate": "2021-12-06",
+        "updatedAt": "2021-06-03T14:03:02.224Z"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Anatola",
+    "birthdate": "02/17/2021",
+    "email": "alabden1@sun.com",
+    "password": "13kx0ahW5",
+    "gender": "Bigender",
+    "isDeficiency": false,
+    "ethnicity": "Branco",
+    "phone": "219-176-0554",
+    "salaryExpec": "1300 a 1600",
+    "personality": "Não sou tímido(a)",
+    "dispo": "Qual quer horário",
+    "endereco": "Feira De Santana-BA",
+    "aresa": [
+      {
+        "name": "Recrutamento de seleção"
+      },
+      {
+        "name": "Administração"
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Python",
+        "level": "BASIC"
+      },
+      {
+        "name": "Javascript",
+        "level": "BASIC"
+      }
+    ],
+    "experiences": []
+  },
+  {
+    "id": 3,
+    "name": "Alexi",
+    "birthdate": "06/16/2020",
+    "email": "aleveridge2@psu.edu",
+    "password": "cCF9yEpexkQ4",
+    "gender": "Bigender",
+    "isDeficiency": false,
+    "ethnicity": "Branco",
+    "phone": "833-212-0746",
+    "salaryExpec": "450 a 800",
+    "personality": "Sim sou tímido(a)",
+    "dispo": "Manhã",
+    "endereco": "Salvador-BA",
+    "aresa": [
+      {
+        "name": ""
+      }
+    ],
+    "technologies": [
+      {
+        "name": "",
+        "level": ""
+      }
+    ],
+    "experiences": []
+  },
+  {
+    "id": 4,
+    "name": "Gran",
+    "birthdate": "12/29/2020",
+    "email": "gwillcox3@nyu.edu",
+    "password": "OTNN2M",
+    "gender": "Male",
+    "isDeficiency": true,
+    "ethnicity": "Branco",
+    "phone": "757-905-4980",
+    "salaryExpec": "450 a 800",
+    "personality": "Não sou tímido(a)",
+    "dispo": "Qual quer horário",
+    "endereco": "Feira De Santana-BA",
+    "aresa": [
+      {
+        "name": "Recrutamento de seleção"
+      },
+      {
+        "name": "Administração"
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Word",
+        "level": "INTERMEDIARY"
+      }
+    ],
+    "experiences": [
+      {
+        "companyName": "Ana Jobs",
+        "createdAt": "2021-06-03T14:03:02.224Z",
+        "description": "A expressão Lorem ipsum em design gráfico e editoração é um texto padrão em latim utilizado na produção gráfica para preencher os espaços de texto em publicações para testar e ajustar aspectos visuais antes de utilizar conteúdo real",
+        "endDate": "2022-12-01",
+        "id": 22,
+        "remuneration": "500",
+        "startDate": "2021-12-06",
+        "updatedAt": "2021-06-03T14:03:02.224Z"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Cozmo",
+    "birthdate": "06/21/2020",
+    "email": "ccrocetto4@shutterfly.com",
+    "password": "f5DYAg47bqd",
+    "gender": "Male",
+    "isDeficiency": false,
+    "ethnicity": "Branco",
+    "phone": "498-870-5947",
+    "salaryExpec": "1300 a 1600",
+    "personality": "Sim sou tímido(a)",
+    "dispo": "Qual quer horário",
+    "endereco": "Serrinha-BA",
+    "aresa": [
+      {
+        "name": "Recrutamento de seleção"
+      },
+      {
+        "name": "Administração de empresas"
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Ruby",
+        "level": "BASIC"
+      }
+    ],
+    "experiences": [
+      {
+        "companyName": "ZRP",
+        "createdAt": "2021-06-03T14:03:02.224Z",
+        "description": "A expressão Lorem ipsum em design gráfico e editoração é um texto padrão em latim utilizado na produção gráfica para preencher os espaços de texto em publicações para testar e ajustar aspectos visuais antes de utilizar conteúdo real",
+        "endDate": "2022-12-01",
+        "id": 22,
+        "remuneration": "500",
+        "startDate": "2021-12-06",
+        "updatedAt": "2021-06-03T14:03:02.224Z"
+      },
+      {
+        "companyName": "Conexa Feira",
+        "createdAt": "2021-06-03T14:03:02.224Z",
+        "description": "A expressão Lorem ipsum em design gráfico e editoração é um texto padrão em latim utilizado na produção gráfica para preencher os espaços de texto em publicações para testar e ajustar aspectos visuais antes de utilizar conteúdo real",
+        "endDate": "2022-12-01",
+        "id": 22,
+        "remuneration": "500",
+        "startDate": "2021-12-06",
+        "updatedAt": "2021-06-03T14:03:02.224Z"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Carri",
+    "birthdate": "06/22/2020",
+    "email": "cpegler5@php.net",
+    "password": "IYFKB1y9R",
+    "gender": "Bigender",
+    "isDeficiency": true,
+    "ethnicity": "Branco",
+    "phone": "774-484-2087",
+    "salaryExpec": "1300 a 1800",
+    "personality": "Sou tímido(a), prefiro atividade mais operacionais",
+    "dispo": "Qual quer horário",
+    "endereco": "Feira De Santana-BA",
+    "aresa": [
+      {
+        "name": "Desenvolvimento Front-End"
+      }
+    ],
+    "technologies": [
+      {
+        "name": "EXCEL",
+        "level": "ADVANCED"
+      }
+    ],
+    "experiences": []
+  },
+  {
+    "id": 7,
+    "name": "Yolande",
+    "birthdate": "12/08/2020",
+    "email": "ycanaan6@1688.com",
+    "password": "Wc72zb",
+    "gender": "Agender",
+    "isDeficiency": true,
+    "ethnicity": "Negro",
+    "phone": "574-135-2823",
+    "salaryExpec": "1300 a 1600",
+    "personality": "Sim sou tímido(a)",
+    "dispo": "Qual quer horário",
+    "endereco": "Salvador-BA",
+    "aresa": [
+      {
+        "name": "Desenvolvimento Back-End"
+      }
+    ],
+    "technologies": [
+      {
+        "name": "",
+        "level": ""
+      }
+    ],
+    "experiences": []
+  },
+  {
+    "id": 8,
+    "name": "Annalise",
+    "birthdate": "06/25/2020",
+    "email": "aingerith7@businessinsider.com",
+    "password": "T6YSXzNWoV",
+    "gender": "Agender",
+    "isDeficiency": false,
+    "ethnicity": "Branco",
+    "phone": "361-484-8041",
+    "salaryExpec": "1300 a 1600",
+    "personality": "Não sou tímido(a)",
+    "dispo": "Qual quer horário",
+    "endereco": "Feira De Santana-BA",
+    "aresa": [
+      {
+        "name": "Desenvolvimento Back-End"
+      }
+    ],
+    "technologies": [
+      {
+        "name": "",
+        "level": ""
+      }
+    ],
+    "experiences": []
+  },
+  {
+    "id": 9,
+    "name": "Melody",
+    "birthdate": "09/29/2020",
+    "email": "mbrownsill8@nsw.gov.au",
+    "password": "RLV4FgX",
+    "gender": "Female",
+    "isDeficiency": false,
+    "ethnicity": "Pardo",
+    "phone": "472-643-2242",
+    "salaryExpec": "1300 a 2000",
+    "personality": "Não sou tímido(a)",
+    "dispo": "Qual quer horário",
+    "endereco": "Serrinha-BA",
+    "aresa": [
+      {
+        "name": ""
+      }
+    ],
+    "technologies": [
+      {
+        "name": "EXCEL",
+        "level": "ADVANCED"
+      }
+    ],
+    "experiences": [
+      {
+        "companyName": "ZRP",
+        "createdAt": "2021-06-03T14:03:02.224Z",
+        "description": "A expressão Lorem ipsum em design gráfico e editoração é um texto padrão em latim utilizado na produção gráfica para preencher os espaços de texto em publicações para testar e ajustar aspectos visuais antes de utilizar conteúdo real",
+        "endDate": "2022-12-01",
+        "id": 22,
+        "remuneration": "500",
+        "startDate": "2021-12-06",
+        "updatedAt": "2021-06-03T14:03:02.224Z"
+      },
+      {
+        "companyName": "Conexa Feira",
+        "createdAt": "2021-06-03T14:03:02.224Z",
+        "description": "A expressão Lorem ipsum em design gráfico e editoração é um texto padrão em latim utilizado na produção gráfica para preencher os espaços de texto em publicações para testar e ajustar aspectos visuais antes de utilizar conteúdo real",
+        "endDate": "2022-12-01",
+        "id": 22,
+        "remuneration": "500",
+        "startDate": "2021-12-06",
+        "updatedAt": "2021-06-03T14:03:02.224Z"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Kassia",
+    "birthdate": "11/18/2020",
+    "email": "kyea9@weibo.com",
+    "password": "0Mg1zQxYeJg",
+    "gender": "Non-binary",
+    "isDeficiency": true,
+    "ethnicity": "Branco",
+    "phone": "784-851-3385",
+    "salaryExpec": "450 a 800",
+    "personality": "Sim sou tímido(a)",
+    "dispo": "Tarde",
+    "endereco": "Feira De Santana-BA",
+    "aresa": [
+      {
+        "name": ""
+      }
+    ],
+    "technologies": [
+      {
+        "name": "",
+        "level": ""
+      }
+    ],
+    "experiences": []
+  },
+  {
+    "id": 11,
+    "name": "Benjamen",
+    "birthdate": "04/06/2021",
+    "email": "bcristoua@deliciousdays.com",
+    "password": "4RJn8qLwT4m",
+    "gender": "Genderfluid",
+    "isDeficiency": true,
+    "ethnicity": "Branco",
+    "phone": "997-728-4294",
+    "salaryExpec": "450 a 800",
+    "personality": "Não sou tímido(a)",
+    "endereco": "Salvador-BA",
+    "dispo": "Tarde",
+    "aresa": [
+      {
+        "name": ""
+      }
+    ],
+    "technologies": [
+      {
+        "name": "",
+        "level": ""
+      }
+    ],
+    "experiences": []
+  },
+  {
+    "id": 12,
+    "name": "Parry",
+    "birthdate": "11/13/2020",
+    "email": "pboissierb@goo.gl",
+    "password": "y8YOpbRnDyM",
+    "gender": "Female",
+    "isDeficiency": true,
+    "ethnicity": "Pardo",
+    "phone": "713-457-2425",
+    "salaryExpec": "1300 a 1800",
+    "personality": "Não sou tímido(a)",
+    "dispo": "Qual quer horário",
+    "endereco": "Feira De Santana-BA",
+    "aresa": [
+      {
+        "name": ""
+      }
+    ],
+    "technologies": [
+      {
+        "name": "EXCEL",
+        "level": "ADVANCED"
+      }
+    ],
+    "experiences": []
+  },
+  {
+    "id": 13,
+    "name": "Morris",
+    "birthdate": "02/02/2021",
+    "email": "mohalleghanec@epa.gov",
+    "password": "tNtKUX",
+    "gender": "Genderqueer",
+    "isDeficiency": true,
+    "ethnicity": "Branco",
+    "phone": "657-674-2401",
+    "salaryExpec": "800 a 1200",
+    "personality": "Sim sou tímido(a)",
+    "dispo": "Qual quer horário",
+    "endereco": "Feira De Santana-BA",
+    "aresa": [
+      {
+        "name": ""
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Photoshop",
+        "level": "BASIC"
+      }
+    ],
+    "experiences": []
+  },
+  {
+    "id": 14,
+    "name": "Vilhelmina",
+    "birthdate": "03/02/2021",
+    "email": "vgoldfinchd@google.es",
+    "password": "4Ff40IEMmY69",
+    "gender": "Female",
+    "isDeficiency": true,
+    "ethnicity": "Negro",
+    "phone": "981-877-3460",
+    "salaryExpec": "1200 a 1500",
+    "personality": "Não sou tímido(a)",
+    "dispo": "Manhã",
+    "endereco": "Feira De Santana-BA",
+    "aresa": [
+      {
+        "name": ""
+      }
+    ],
+    "technologies": [
+      {
+        "name": "",
+        "level": ""
+      }
+    ],
+    "experiences": [
+      {
+        "companyName": "ZRP",
+        "createdAt": "2021-06-03T14:03:02.224Z",
+        "description": "A expressão Lorem ipsum em design gráfico e editoração é um texto padrão em latim utilizado na produção gráfica para preencher os espaços de texto em publicações para testar e ajustar aspectos visuais antes de utilizar conteúdo real",
+        "endDate": "2022-12-01",
+        "id": 22,
+        "remuneration": "500",
+        "startDate": "2021-12-06",
+        "updatedAt": "2021-06-03T14:03:02.224Z"
+      },
+      {
+        "companyName": "Conexa Feira",
+        "createdAt": "2021-06-03T14:03:02.224Z",
+        "description": "A expressão Lorem ipsum em design gráfico e editoração é um texto padrão em latim utilizado na produção gráfica para preencher os espaços de texto em publicações para testar e ajustar aspectos visuais antes de utilizar conteúdo real",
+        "endDate": "2022-12-01",
+        "id": 22,
+        "remuneration": "500",
+        "startDate": "2021-12-06",
+        "updatedAt": "2021-06-03T14:03:02.224Z"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Adolphus",
+    "birthdate": "09/20/2020",
+    "email": "atalbye@sourceforge.net",
+    "password": "RS6aao9iWD",
+    "gender": "Agender",
+    "isDeficiency": false,
+    "ethnicity": "Branco",
+    "phone": "492-922-6048",
+    "salaryExpec": "800 a 1200",
+    "personality": "Não sou tímido(a)",
+    "dispo": "Qual quer horário",
+    "endereco": "Serrinha-BA",
+    "aresa": [
+      {
+        "name": ""
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Photoshop",
+        "level": "BASIC"
+      }
+    ],
+    "experiences": [
+      {
+        "companyName": "ZRP",
+        "createdAt": "2021-06-03T14:03:02.224Z",
+        "description": "A expressão Lorem ipsum em design gráfico e editoração é um texto padrão em latim utilizado na produção gráfica para preencher os espaços de texto em publicações para testar e ajustar aspectos visuais antes de utilizar conteúdo real",
+        "endDate": "2022-12-01",
+        "id": 22,
+        "remuneration": "500",
+        "startDate": "2021-12-06",
+        "updatedAt": "2021-06-03T14:03:02.224Z"
+      },
+      {
+        "companyName": "Conexa Feira",
+        "createdAt": "2021-06-03T14:03:02.224Z",
+        "description": "A expressão Lorem ipsum em design gráfico e editoração é um texto padrão em latim utilizado na produção gráfica para preencher os espaços de texto em publicações para testar e ajustar aspectos visuais antes de utilizar conteúdo real",
+        "endDate": "2022-12-01",
+        "id": 22,
+        "remuneration": "500",
+        "startDate": "2021-12-06",
+        "updatedAt": "2021-06-03T14:03:02.224Z"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Roderich",
+    "birthdate": "11/26/2020",
+    "email": "rtopf@mapy.cz",
+    "password": "igUE0DGUc",
+    "gender": "Non-binary",
+    "isDeficiency": true,
+    "ethnicity": "Pardo",
+    "phone": "827-498-2115",
+    "salaryExpec": "450 a 800",
+    "personality": "Sim sou tímido(a)",
+    "dispo": "Manhã",
+    "endereco": "Feira De Santana-BA",
+    "aresa": [
+      {
+        "name": ""
+      }
+    ],
+    "technologies": [
+      {
+        "name": "",
+        "level": ""
+      }
+    ],
+    "experiences": []
+  },
+  {
+    "id": 17,
+    "name": "Jammal",
+    "birthdate": "03/13/2021",
+    "email": "jalwayg@comcast.net",
+    "password": "BGcFIa",
+    "gender": "Non-binary",
+    "isDeficiency": true,
+    "ethnicity": "Negro",
+    "phone": "512-347-7169",
+    "salaryExpec": "1300 a 1600",
+    "personality": "Sou tímido(a), prefiro atividade mais operacionais",
+    "dispo": "Qual quer horário",
+    "endereco": "Feira De Santana-BA",
+    "aresa": [
+      {
+        "name": ""
+      }
+    ],
+    "technologies": [
+      {
+        "name": "",
+        "level": ""
+      }
+    ],
+    "experiences": [
+      {
+        "companyName": "ZRP",
+        "createdAt": "2021-06-03T14:03:02.224Z",
+        "description": "A expressão Lorem ipsum em design gráfico e editoração é um texto padrão em latim utilizado na produção gráfica para preencher os espaços de texto em publicações para testar e ajustar aspectos visuais antes de utilizar conteúdo real",
+        "endDate": "2022-12-01",
+        "id": 22,
+        "remuneration": "500",
+        "startDate": "2021-12-06",
+        "updatedAt": "2021-06-03T14:03:02.224Z"
+      },
+      {
+        "companyName": "Conexa Feira",
+        "createdAt": "2021-06-03T14:03:02.224Z",
+        "description": "A expressão Lorem ipsum em design gráfico e editoração é um texto padrão em latim utilizado na produção gráfica para preencher os espaços de texto em publicações para testar e ajustar aspectos visuais antes de utilizar conteúdo real",
+        "endDate": "2022-12-01",
+        "id": 22,
+        "remuneration": "500",
+        "startDate": "2021-12-06",
+        "updatedAt": "2021-06-03T14:03:02.224Z"
+      },
+      {
+        "companyName": "ZRP",
+        "createdAt": "2021-06-03T14:03:02.224Z",
+        "description": "A expressão Lorem ipsum em design gráfico e editoração é um texto padrão em latim utilizado na produção gráfica para preencher os espaços de texto em publicações para testar e ajustar aspectos visuais antes de utilizar conteúdo real",
+        "endDate": "2022-12-01",
+        "id": 22,
+        "remuneration": "500",
+        "startDate": "2021-12-06",
+        "updatedAt": "2021-06-03T14:03:02.224Z"
+      },
+      {
+        "companyName": "Conexa Feira",
+        "createdAt": "2021-06-03T14:03:02.224Z",
+        "description": "A expressão Lorem ipsum em design gráfico e editoração é um texto padrão em latim utilizado na produção gráfica para preencher os espaços de texto em publicações para testar e ajustar aspectos visuais antes de utilizar conteúdo real",
+        "endDate": "2022-12-01",
+        "id": 22,
+        "remuneration": "500",
+        "startDate": "2021-12-06",
+        "updatedAt": "2021-06-03T14:03:02.224Z"
+      }
+    ]
+  }
+]
