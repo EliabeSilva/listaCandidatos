@@ -76,7 +76,7 @@
     </thead>
     <tbody id="filt">
       <!-- Informações dos candidatos dentro da tr/th -->
-      <tr v-for="cand in filterCands">
+      <tr v-for="cand in filterCands" :key="cand.id">
         <th class="text-left">
             {{ cand.name }}
         </th>

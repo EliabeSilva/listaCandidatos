@@ -17,7 +17,7 @@
     </div>
     <h3 class="text-center bd">Area</h3>
     <br>
-    <div v-for="aresa in perf.aresa">
+    <div v-for="aresa in perf.aresa" :key="aresa.name">
       <div v-if="aresa.name.length > 0">
         <ul>
           <li>{{ aresa.name }}</li>
@@ -32,7 +32,7 @@
     <h3 class="text-center bd">Experiência</h3>
     <br>
     <div v-if="perf.experiences.length > 0">
-      <div v-for="exp in perf.experiences">
+      <div v-for="exp in perf.experiences" :key="exp.remuneration">
         <p class="text-black">Nome Da Empresa: {{ exp.companyName }}</p>
         <p>Remuneração: R$ {{ exp.remuneration }},00</p>
         <p>Data de inicio: {{ exp.startDate }}</p>
@@ -45,15 +45,16 @@
     </div>
     <h3 class="text-center bd">Tecnologias</h3>
     <br>
-    <div v-if="perf.technologies.length > 0">
-      <div v-for="tec in perf.technologies">
+    <div v-for="tec in perf.technologies" :key="tec.name">
+      <div v-if="tec.name != ''">
         <p>Nome Da Tec: {{ tec.name }} | Nivel: {{ tec.level }}</p>
         <br>
       </div>
-    </div>
-    <div v-else>
+      <div v-else>
       <p>Sem Tecnologia</p>
+      </div>
     </div>
+
       <br>
   </v-simple-table>
   <v-btn to="/"
